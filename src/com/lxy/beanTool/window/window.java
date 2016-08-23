@@ -6,10 +6,8 @@ import com.lxy.beanTool.execute.OutputBean;
 import com.lxy.beanTool.util.ReadExcel;
 
 import java.awt.Color;
-import java.awt.Container;
 import java.awt.EventQueue;
 import java.awt.Font;
-import java.awt.Rectangle;
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.StringSelection;
