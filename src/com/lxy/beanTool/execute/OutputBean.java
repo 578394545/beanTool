@@ -4,7 +4,12 @@ import com.lxy.beanTool.util.Format;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-
+/**
+ * @Title: OutputBean.java <br />
+ * @Description:bean相关方法 <br />
+ * <br />
+ * @author: lxy <br />
+ */
 public class OutputBean
 {
   public static int createFile(String beanStr, String fileName, String fileType)
